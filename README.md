@@ -1,18 +1,18 @@
 # Insertion_Sort_Projesi
 Kodluyoruz.org bunyesinde hazirladigim proje odevi
 
-1-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+**1-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.**
 
 - [22,27,16,2,18,6]  n
 - [2,27,16,22,18,6]  n-1
 - [2,6,16,22,18,27]  n-2
 - [2,6,16,18,22,27]  1
 
-2-Big-O gosterimi
+**2-Big-O gosterimi**
 
 Tum asamada aynı elemanlar üzerinden dolaştığı için en kötü ihtimalle O(n²)dir.
 
-3-Time Complexity
+**3-Time Complexity**
 
 Aradigimiz 18 sayisi orta kisimda yer aldigi icin average case kapsamindadir.
 
